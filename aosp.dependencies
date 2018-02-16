@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "pixelexperience-devices/device_cyanogen_msm8916",
+    "target_path": "device/cyanogen/msm8916-common"
+  },
+  {
+    "repository": "pixelexperience-devices/kernel_cyanogen_msm8916",
+    "target_path": "kernel/cyanogen/msm8916"
+  },
+  { 
+    "repository": "pixelexperience-devices/vendor_yu",
+    "target_path": "vendor/yu"
+  }
+]
